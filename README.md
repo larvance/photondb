@@ -7,6 +7,12 @@ My GitHub: [larvance](https://github.com/larvance)
 
 My Discord: Larvance#6561
 
+## Why photon?
+
+- ✨ Compared to other databases it is so small and compact! ✨
+- ✨ It's so fast! ✨
+- ✨ Supports multiple languages and executables for multiple operating systems! ✨
+
 ## Usage
 
 ### Importing
